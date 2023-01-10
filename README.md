@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **C, Javascript**
 
+- 📫 How to reach me **lsign@proton.me**
+
 - ⚡ Fun fact **I'm 6"2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucassignorelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucassignorelli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/signorellilucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="signorellilucas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
