@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **lsign@proton.me**
 
-- ⚡ Fun fact **I'm 6"2**
+- ⚡ Fun fact **I'm 6"4**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
