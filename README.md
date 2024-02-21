@@ -81,4 +81,11 @@ Personnellement, je trouve que la formation DACS est très réussite et nous for
 <h2>Présentation de la conception de la page Github</h2> 
 Mon compte GitHub ne me sert plus vraiment puisque je ne développe plus.
 Vous pouvez retrouver quelques dépôts en publics, certains sont des projets liés à ce que je devais faire en cours, les autres sont des projets personnels.
-Pour faire cette page de "portfolio", j'ai crée un dépôt avec le même nom que mon compte, ce qui permet d'afficher le document sur mon profil.
+Voici quelques projets que j'ai pu faire, qui sont en public sur ma page GitHub:
+
+- **NetVOD :** application web (html/css/php) ressemblant à un service de streaming en ligne.
+- **VirtUI :** application web (golang/html/css) permettant de contrôler les conteneurs LXC.
+- **Zeldiablo :** jeu réalisé en Java, le but du projet était d'apprendre la méthode agile.
+
+Vous pouvez aussi retrouver d'autres dépôts de code, comme mes dotfiles pour neovim, ou alors des templates html/css que j'utilise pour un autre projet.
+Etant donné que la formation dans laquelle je suis n'est plus réellement tournée vers la programmation, mon compte GitHub est assez inactif.
